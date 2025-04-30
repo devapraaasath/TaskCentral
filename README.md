@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskCentral API
 
 A Django REST Framework-based API for enterprise project coordination with role-based authorization.
@@ -202,3 +203,6 @@ Test suite covers:
 - Project management operations
 - Task handling and assignment
 - Filtering and pagination
+=======
+# TaskCentral
+>>>>>>> 8918aabaede0ed96455d2d184cd2a147194d8f38
